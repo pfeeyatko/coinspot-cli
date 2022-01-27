@@ -7,3 +7,10 @@ CoinSpot CLI
 2. Add your CoinSpot API key and secret to the .env file
 3. Compile TypeScript by running `tsc` from the root directory
 4. From inside the `dist` directory run `node index.js`
+
+### Features
+
+* View Latest Prices
+* View Account Balance
+* Place Buy Now Order
+* Place Market Buy Order
