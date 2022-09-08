@@ -1,5 +1,5 @@
 {
-  "name": "tugat",
+  "name": "coinspot-cli",
   "version": "1.0.0",
   "description": "coinspot bot",
   "main": "index.js",
@@ -14,6 +14,7 @@
     "dotenv": "^10.0.0"
   },
   "devDependencies": {
+    "typescript": "^4.0.0",
     "@types/node": "^16.11.9"
   }
 }
